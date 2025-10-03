@@ -5,12 +5,10 @@
     "keywords": ["helpdesk", "laravel", "tailwindcss", "filament-forms", "filament-notifications"],
     "license": "MIT",
     "require": {
-        "php": "^8.0.2",
-        "devaslanphp/filament-avatar": "^1.0",
+        "php": "^7.2.5|^8.0",
         "filament/forms": "^2.15",
         "filament/notifications": "^2.15",
         "guzzlehttp/guzzle": "^7.2",
-        "invaders-xx/filament-kanban-board": "^0.2.6",
         "larabug/larabug": "^2.5",
         "laravel/framework": "^9.19|^10.0",
         "laravel/sanctum": "^3.0",
